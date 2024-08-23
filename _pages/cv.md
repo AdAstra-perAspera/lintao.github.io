@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Psychology Department, Beijing Normal University, 2022-2025
+* B.S. in School of Translation Studies, Xi'an International Studies University, 2016-2020
 
 Work experience
 ======
@@ -27,19 +26,15 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019.11-2020.7: translation intern 👉 freelancer
+  * TransPerfect (Beijing Office)
+  * Duties included: translating text from English to Chinese
+  * Supervisor: Frank Ku
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fluency in English:  IELTS Academic 7.5
+* Mastery of MS Office, Excel and PowerPoint
 
 Publications
 ======
