@@ -6,7 +6,7 @@
 
 main:
   - title: "CV"
-    url: /cv/
+    url: /cv/ #/files/resume.pdf if you want to attach your pdf in your web, upload it in the "files" folder
   
   - title: "Publications"
     url: /publications/
